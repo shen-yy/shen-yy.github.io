@@ -38,7 +38,7 @@ See full publications in [Google Scholar](https://scholar.google.com/citations?h
 - Liujun Wang, Yanyan Shen. [BOUNCE: An Efficient Selective Enumeration Approach for Nested Named Entity Recognition.]() In Proceedings of the 5th Asia Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference on Web and Big Data (APWeb-WAIM), 2021. (full, accept rate = 44/172)
 - Jingzhi Fang, Yanyan Shen, et al. [Optimizing DNN Computation Graph using Graph Substitutions.]() In Proceedings of the VLDB Endowment (PVLDB), 2020. 
 - Qiyu Liu, Libin Zheng, Yanyan Shen, et al. [Stable Learned Bloom Filters for Data Streams.]() In Proceedings of the VLDB Endowment (PVLDB), 2020. 
-- Weiyu Cheng, Yanyan Shen, et al. [Adaptive Factorization Network: Learning Adaptive-Order Feature Interactions.]() In Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI), 2020. (accept rate=1591/7737=20.6%)
+- Weiyu Cheng, Yanyan Shen, et al. [Adaptive Factorization Network: Learning Adaptive-Order Feature Interactions.]() In Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI), 2020. (accept rate=1591/7737)
 - Dongxiang Zhang, et al. [Multi-Context Attention for Entity Matching.]() In Proceedings of the Web Conference (TheWebConf), 2020.
 - Xian Zhou, Yanyan Shen, et al. [FreqST: Exploiting Frequency Information in Spatiotemporal Modeling for Traffic Prediction.]() In Proceedings of the 2020 IEEE International Conference on Data Mining (ICDM), 2020. (accept rate = 19.7%)
 
