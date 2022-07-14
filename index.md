@@ -17,7 +17,7 @@ Yanyan received 2020 ACM SIGMOD China Rising Star Award, 2020 Shanghai Technical
 
 - Big Data Analytics
 - Data-driven Machine Learning
-- DB for AI
+- DB for AI / AI for DB
 
 
 ### Recent Publications 
