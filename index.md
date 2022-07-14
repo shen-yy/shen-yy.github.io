@@ -4,7 +4,7 @@ Associate Professor with Tenure\
 Department of Computer Science and Engineering\
 Shanghai Jiao Tong University
 
-Email: shenyy AT sjtu DOT edu DOT cn
+Email: shenyy [AT] sjtu.edu.cn
 
 ### Bio
 
