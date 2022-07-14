@@ -29,6 +29,10 @@ See full publications in [Google Scholar](https://scholar.google.com/citations?h
 - Jingzhi Fang, Yanyan Shen, et al. [ETO: Accelerating Optimization of DNN Operators by High-Performance Tensor Program Reuse.]() In Proceedings of the VLDB Endowment (PVLDB), 2022.
 - Jingshu Peng, et al. [Sancus: Staleness-Aware Communication-Avoiding Full-Graph Decentralized Training in Large-Scale Graph Neural Networks.]() In Proceedings of the VLDB Endowment (PVLDB), 2022.
 - Zhikai Wang, Yanyan Shen. [Time-aware Multi-interest Capsule Network for Sequential Recommendation.]() In Proceedings of the SIAM International Conference on Data Mining (SDM), 2022. (accept rate=83/298)
+- Shuming Kong, Weiyu Cheng, Yanyan Shen, Linpeng Huang.  [AutoSrh: An Embedding Dimensionality Search Framework for Tabular Data Prediction.]() IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022.
+- Yanyan Shen, Baoyuan Ou, Ranzhen Li. [MBN: Towards Multi-behavior Sequence Modeling for Next Basket Recommendation.]() ACM Transactions on Knowledge Discovery from Data (TKDD), 2022.
+- Shitao Xiao, et al. [LECF: Recommendation via Learnable Edge Collaborative Filtering.]() SCIENCE CHINA Information Sciences (SCIS), 2022.
+- Weiyu Cheng, Yanyan Shen, et al. [Dual-Embedding based Deep Latent Factor Models for Recommendation.]() ACM Transactions on Knowledge Discovery from Data (TKDD), 2021.
 - Runjin Chen, Yanyan Shen, et al. [GNEM: A Generic One-to-Set Neural Entity Matching Framework.]() In Proceedings of the Web Conference (TheWebConf), 2021.
 - Qiyu Liu, Yanyan Shen, et al. [LHist: Towards Learning Multi-dimensional Histogram for Massive Spatial Data.]() In Proceedings of the 37th IEEE International Conference on Data Engineering (ICDE), 2021.
 - Yiming Li, Yanyan Shen, et al. [Palette: Towards Multi-source Model Selection and Ensemble for Reuse.]() In Proceedings of the 37th IEEE International Conference on Data Engineering (ICDE), 2021.
