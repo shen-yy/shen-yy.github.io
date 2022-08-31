@@ -25,7 +25,7 @@ See full publications in [Google Scholar](https://scholar.google.com/citations?h
 
 - Shuming Kong, Yanyan Shen, et al. [Resolving Training Biases via Influence-based Data Relabeling.]() In Proceedings of the 10th International Conference on Learning Representations (ICLR), 2022. (oral, accept rate = 54/3391)
 - Shuming Kong, Weiyu Cheng, Yanyan Shen, Linpeng Huang.  [AutoSrh: An Embedding Dimensionality Search Framework for Tabular Data Prediction.]() IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022.
-- Yanyan Shen, Lifan Zhao, et al. [RESUS: Warm-Up Cold Users via Meta-Learning Residual User Preferences in CTR Prediction]() ACM Transactions on Information Systems (TOIS), 2022.
+- Yanyan Shen, Lifan Zhao, et al. [RESUS: Warm-Up Cold Users via Meta-Learning Residual User Preferences in CTR Prediction.]() ACM Transactions on Information Systems (TOIS), 2022.
 - Yiming Li, Yanyan Shen, et al. [Camel: Managing Data for Efficient Stream Learning.]() In Proceedings of the 2022 International Conference on Management of Data (SIGMOD), 2022.
 - Qiyu Liu, Yanyan Shen, et al. [LHI: A Learned Hamming Space Index Framework for Efficient Similarity Search.]() In Proceedings of the 2022 International Conference on Management of Data (SIGMOD), 2022.
 - Jingzhi Fang, Yanyan Shen, et al. [ETO: Accelerating Optimization of DNN Operators by High-Performance Tensor Program Reuse.]() In Proceedings of the VLDB Endowment (PVLDB), 2022.
