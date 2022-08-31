@@ -24,13 +24,14 @@ Yanyan has won a few awards, including 2020 ACM SIGMOD China Rising Star award, 
 See full publications in [Google Scholar](https://scholar.google.com/citations?hl=en&user=MBuqhZUAAAAJ) or [here]().
 
 - Shuming Kong, Yanyan Shen, et al. [Resolving Training Biases via Influence-based Data Relabeling.]() In Proceedings of the 10th International Conference on Learning Representations (ICLR), 2022. (oral, accept rate = 54/3391)
+- Shuming Kong, Weiyu Cheng, Yanyan Shen, Linpeng Huang.  [AutoSrh: An Embedding Dimensionality Search Framework for Tabular Data Prediction.]() IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022.
+- Yanyan Shen, Lifan Zhao, et al. [RESUS: Warm-Up Cold Users via Meta-Learning Residual User Preferences in CTR Prediction]() ACM Transactions on Information Systems (TOIS), 2022.
 - Yiming Li, Yanyan Shen, et al. [Camel: Managing Data for Efficient Stream Learning.]() In Proceedings of the 2022 International Conference on Management of Data (SIGMOD), 2022.
 - Qiyu Liu, Yanyan Shen, et al. [LHI: A Learned Hamming Space Index Framework for Efficient Similarity Search.]() In Proceedings of the 2022 International Conference on Management of Data (SIGMOD), 2022.
 - Jingzhi Fang, Yanyan Shen, et al. [ETO: Accelerating Optimization of DNN Operators by High-Performance Tensor Program Reuse.]() In Proceedings of the VLDB Endowment (PVLDB), 2022.
 - Jingshu Peng, et al. [Sancus: Staleness-Aware Communication-Avoiding Full-Graph Decentralized Training in Large-Scale Graph Neural Networks.]() In Proceedings of the VLDB Endowment (PVLDB), 2022.
 - Runjin Chen, Tong Li, Yanyan Shen, et al. [GCF-RD: A Graph-based Contrastive Framework for Semi-Supervised Learning on Relational Databases.]() In Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM), 2022. 
 - Zhikai Wang, Yanyan Shen. [Time-aware Multi-interest Capsule Network for Sequential Recommendation.]() In Proceedings of the SIAM International Conference on Data Mining (SDM), 2022. (accept rate=83/298)
-- Shuming Kong, Weiyu Cheng, Yanyan Shen, Linpeng Huang.  [AutoSrh: An Embedding Dimensionality Search Framework for Tabular Data Prediction.]() IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022.
 - Yanyan Shen, Baoyuan Ou, Ranzhen Li. [MBN: Towards Multi-behavior Sequence Modeling for Next Basket Recommendation.]() ACM Transactions on Knowledge Discovery from Data (TKDD), 2022.
 - Shitao Xiao, et al. [LECF: Recommendation via Learnable Edge Collaborative Filtering.]() SCIENCE CHINA Information Sciences (SCIS), 2022.
 - Weiyu Cheng, Yanyan Shen, et al. [Dual-Embedding based Deep Latent Factor Models for Recommendation.]() ACM Transactions on Knowledge Discovery from Data (TKDD), 2021.
