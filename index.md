@@ -31,6 +31,7 @@ See full publications in [Google Scholar](https://scholar.google.com/citations?h
 - Jingzhi Fang, Yanyan Shen, et al. [ETO: Accelerating Optimization of DNN Operators by High-Performance Tensor Program Reuse.]() In Proceedings of the VLDB Endowment (PVLDB), 2022.
 - Jingshu Peng, et al. [Sancus: Staleness-Aware Communication-Avoiding Full-Graph Decentralized Training in Large-Scale Graph Neural Networks.]() In Proceedings of the VLDB Endowment (PVLDB), 2022.
 - Runjin Chen, Tong Li, Yanyan Shen, et al. [GCF-RD: A Graph-based Contrastive Framework for Semi-Supervised Learning on Relational Databases.]() In Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM), 2022. 
+- Xin Zhang, Yanyan Shen, et al. [Feature-Oriented Sampling for Fast and Scalable GNN Learning.]() In Proceedings of the 2022 IEEE International Conference on Data Mining (ICDM), 2022. (accept rate = 85/870)
 - Zhikai Wang, Yanyan Shen. [Time-aware Multi-interest Capsule Network for Sequential Recommendation.]() In Proceedings of the SIAM International Conference on Data Mining (SDM), 2022. (accept rate=83/298)
 - Yanyan Shen, Baoyuan Ou, Ranzhen Li. [MBN: Towards Multi-behavior Sequence Modeling for Next Basket Recommendation.]() ACM Transactions on Knowledge Discovery from Data (TKDD), 2022.
 - Shitao Xiao, et al. [LECF: Recommendation via Learnable Edge Collaborative Filtering.]() SCIENCE CHINA Information Sciences (SCIS), 2022.
