@@ -23,6 +23,14 @@ Yanyan has won a few awards, including 2020 ACM SIGMOD China Rising Star award, 
 ### Recent Publications 
 See full publications in [Google Scholar](https://scholar.google.com/citations?hl=en&user=MBuqhZUAAAAJ) or [here]().
 
+
+- Zepeng Li, Dongxiang Zhang, Yanyan Shen, Gang Chen. [Human-in-the-Loop Vehicle ReID.]() In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI), 2023. (accept rate=1721/8777=19.6\%)
+- Tong Li, Jiale Deng, Yanyan Shen, Luyu Qiu, Yongxiang Huang, Caleb Chen Cao. [Towards Fine-grained Explainability for Heterogeneous Graph Neural Network.]() In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI), 2023. (accept rate=1721/8777=19.6\%)
+- Yiming Li, Yanyan Shen, Lei Chen, Mingxuan Yuan. [Orca: Scalable Temporal Graph Neural Networks Training with Theoretical Guarantees.]() In Proceedings of the 2023 International Conference on Management of Data (SIGMOD), 2023.
+- Xin Zhang, Yanyan Shen, Yingxia Shao, Lei Chen. [DUCATI: A Dual-Cache Training System for Graph Neural Networks on Giant Graphs with GPU.]() In Proceedings of the 2023 International Conference on Management of Data (SIGMOD), 2023.
+- Jia Li, Yanyan Shen, Lei Chen, Charles Wang Wai Ng. [SSIN: Self-Supervised Learning for Rainfall Spatial Interpolation.]() In Proceedings of the 2023 International Conference on Management of Data (SIGMOD), 2023.
+- Yiming Li, Yanyan Shen, Lei Chen, Mingxuan Yuan. [Zebra: When Temporal Graph Neural Networks Meet Temporal Personalized PageRank.]() In Proceedings of the VLDB Endowment (PVLDB), 2023.
+- Zhikai Wang, Yanyan Shen. [Incremental Learning for Multi-Interest Sequential Recommendation.]() In Proceedings of the 39th IEEE International Conference on Data Engineering (ICDE), 2023.
 - Shuming Kong, Yanyan Shen, et al. [Resolving Training Biases via Influence-based Data Relabeling.]() In Proceedings of the 10th International Conference on Learning Representations (ICLR), 2022. (oral, accept rate = 54/3391)
 - Shuming Kong, Weiyu Cheng, Yanyan Shen, Linpeng Huang.  [AutoSrh: An Embedding Dimensionality Search Framework for Tabular Data Prediction.]() IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022.
 - Yanyan Shen, Lifan Zhao, et al. [RESUS: Warm-Up Cold Users via Meta-Learning Residual User Preferences in CTR Prediction.]() ACM Transactions on Information Systems (TOIS), 2022.
@@ -30,24 +38,12 @@ See full publications in [Google Scholar](https://scholar.google.com/citations?h
 - Qiyu Liu, Yanyan Shen, et al. [LHI: A Learned Hamming Space Index Framework for Efficient Similarity Search.]() In Proceedings of the 2022 International Conference on Management of Data (SIGMOD), 2022.
 - Jingzhi Fang, Yanyan Shen, et al. [ETO: Accelerating Optimization of DNN Operators by High-Performance Tensor Program Reuse.]() In Proceedings of the VLDB Endowment (PVLDB), 2022.
 - Jingshu Peng, et al. [Sancus: Staleness-Aware Communication-Avoiding Full-Graph Decentralized Training in Large-Scale Graph Neural Networks.]() In Proceedings of the VLDB Endowment (PVLDB), 2022.
-- Runjin Chen, Tong Li, Yanyan Shen, et al. [GCF-RD: A Graph-based Contrastive Framework for Semi-Supervised Learning on Relational Databases.]() In Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM), 2022. 
-- Xin Zhang, Yanyan Shen, et al. [Feature-Oriented Sampling for Fast and Scalable GNN Learning.]() In Proceedings of the 2022 IEEE International Conference on Data Mining (ICDM), 2022. (accept rate = 85/870)
-- Zhikai Wang, Yanyan Shen. [Time-aware Multi-interest Capsule Network for Sequential Recommendation.]() In Proceedings of the SIAM International Conference on Data Mining (SDM), 2022. (accept rate=83/298)
-- Yanyan Shen, Baoyuan Ou, Ranzhen Li. [MBN: Towards Multi-behavior Sequence Modeling for Next Basket Recommendation.]() ACM Transactions on Knowledge Discovery from Data (TKDD), 2022.
-- Shitao Xiao, et al. [LECF: Recommendation via Learnable Edge Collaborative Filtering.]() SCIENCE CHINA Information Sciences (SCIS), 2022.
-- Weiyu Cheng, Yanyan Shen, et al. [Dual-Embedding based Deep Latent Factor Models for Recommendation.]() ACM Transactions on Knowledge Discovery from Data (TKDD), 2021.
 - Runjin Chen, Yanyan Shen, et al. [GNEM: A Generic One-to-Set Neural Entity Matching Framework.]() In Proceedings of the Web Conference (TheWebConf), 2021.
 - Qiyu Liu, Yanyan Shen, et al. [LHist: Towards Learning Multi-dimensional Histogram for Massive Spatial Data.]() In Proceedings of the 37th IEEE International Conference on Data Engineering (ICDE), 2021.
 - Yiming Li, Yanyan Shen, et al. [Palette: Towards Multi-source Model Selection and Ensemble for Reuse.]() In Proceedings of the 37th IEEE International Conference on Data Engineering (ICDE), 2021.
-- Jia Li, Shimin Di, Yanyan Shen, et al. [FluxEV: A Fast and Effective Unsupervised Framework for Time-Series Anomaly Detection.]() In Proceedings of the 14th ACM International Conference on Web Search and Data Mining (WSDM), 2021. (accept rate=112/603)
-- Xujia Li, Yanyan Shen, et al. [Mcore: Multi-Agent Collaborative Learning for Knowledge-Graph-Enhanced Recommendation.]() In Proceedings of the 2021 IEEE International Conference on Data Mining (ICDM), 2021. (accept rate = 98/990)
-- Jingshu Peng, Yanyan Shen, et al. [GraphANGEL: Adaptive and Structure-Aware Sampling on Graph Neural Networks.]() In Proceedings of the 2021 IEEE International Conference on Data Mining (ICDM), 2021. (accept rate = 98/990)
-- Liujun Wang, Yanyan Shen. [BOUNCE: An Efficient Selective Enumeration Approach for Nested Named Entity Recognition.]() In Proceedings of the 5th Asia Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference on Web and Big Data (APWeb-WAIM), 2021. (full, accept rate = 44/172)
 - Jingzhi Fang, Yanyan Shen, et al. [Optimizing DNN Computation Graph using Graph Substitutions.]() In Proceedings of the VLDB Endowment (PVLDB), 2020. 
 - Qiyu Liu, Libin Zheng, Yanyan Shen, et al. [Stable Learned Bloom Filters for Data Streams.]() In Proceedings of the VLDB Endowment (PVLDB), 2020. 
 - Weiyu Cheng, Yanyan Shen, et al. [Adaptive Factorization Network: Learning Adaptive-Order Feature Interactions.]() In Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI), 2020. (accept rate=1591/7737)
-- Dongxiang Zhang, et al. [Multi-Context Attention for Entity Matching.]() In Proceedings of the Web Conference (TheWebConf), 2020.
-- Xian Zhou, Yanyan Shen, et al. [FreqST: Exploiting Frequency Information in Spatiotemporal Modeling for Traffic Prediction.]() In Proceedings of the 2020 IEEE International Conference on Data Mining (ICDM), 2020. (accept rate = 19.7%)
 
 
 ### Professional Service
@@ -73,7 +69,7 @@ See full publications in [Google Scholar](https://scholar.google.com/citations?h
 **Conferences Program Committee**
 
 - ACM International Conference on Management of Data (SIGMOD): 2021, 2023
-- PVLDB Review Board: 2019, 2020, 2022, 2023 (Associate Editor) 
+- PVLDB Review Board: 2019, 2020, 2022, 2023 (Associate Editor), 2024 (Associate Editor) 
 - IEEE International Conference on Data Engineering (ICDE): 2018, 2019, 2020, 2022, 2023 (Demo Co-chair)
 -	ACM International Conference on Knowledge Discovery and Data Mining (SIGKDD): 2019, 2020, 2021, 2022
 -	International Joint Conference on Artificial Intelligence (IJCAI): 2018, 2019, 2020
