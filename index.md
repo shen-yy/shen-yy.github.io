@@ -24,8 +24,8 @@ Yanyan has won a few awards, including 2020 ACM SIGMOD China Rising Star award, 
 See full publications in [Google Scholar](https://scholar.google.com/citations?hl=en&user=MBuqhZUAAAAJ) or [here]().
 
 
-- Zepeng Li, Dongxiang Zhang, Yanyan Shen, Gang Chen. [Human-in-the-Loop Vehicle ReID.]() In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI), 2023. (accept rate=1721/8777=19.6\%)
 - Tong Li, Jiale Deng, Yanyan Shen, Luyu Qiu, Yongxiang Huang, Caleb Chen Cao. [Towards Fine-grained Explainability for Heterogeneous Graph Neural Network.]() In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI), 2023. (accept rate=1721/8777=19.6\%)
+- Zepeng Li, Dongxiang Zhang, Yanyan Shen, Gang Chen. [Human-in-the-Loop Vehicle ReID.]() In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI), 2023.
 - Yiming Li, Yanyan Shen, Lei Chen, Mingxuan Yuan. [Orca: Scalable Temporal Graph Neural Networks Training with Theoretical Guarantees.]() In Proceedings of the 2023 International Conference on Management of Data (SIGMOD), 2023.
 - Xin Zhang, Yanyan Shen, Yingxia Shao, Lei Chen. [DUCATI: A Dual-Cache Training System for Graph Neural Networks on Giant Graphs with GPU.]() In Proceedings of the 2023 International Conference on Management of Data (SIGMOD), 2023.
 - Jia Li, Yanyan Shen, Lei Chen, Charles Wang Wai Ng. [SSIN: Self-Supervised Learning for Rainfall Spatial Interpolation.]() In Proceedings of the 2023 International Conference on Management of Data (SIGMOD), 2023.
