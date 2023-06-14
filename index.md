@@ -23,7 +23,7 @@ Yanyan has won a few awards, including 2020 ACM SIGMOD China Rising Star award, 
 ### Recent Publications 
 See full publications in [Google Scholar](https://scholar.google.com/citations?hl=en&user=MBuqhZUAAAAJ) or [here]().
 
-
+- Lifan Zhao, Shuming Kong, Yanyan Shen. [DoubleAdapt: A Meta-learning Approach to Incremental Learning for Stock Trend Forecasting.]() In Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023. (research track, accept rate=313/1416=22.1%)
 - Zhikai Wang, Yanyan Shen, Zibin Zhang, Kangyi Lin. [Feature Staleness Aware Incremental Learning for CTR Prediction.]() In Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI), 2023. (accept rate=15%)
 - Tong Li, Jiale Deng, Yanyan Shen, Luyu Qiu, Yongxiang Huang, Caleb Chen Cao. [Towards Fine-grained Explainability for Heterogeneous Graph Neural Network.]() In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI), 2023. (accept rate=1721/8777=19.6%)
 - Zepeng Li, Dongxiang Zhang, Yanyan Shen, Gang Chen. [Human-in-the-Loop Vehicle ReID.]() In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI), 2023.
@@ -62,6 +62,7 @@ See full publications in [Google Scholar](https://scholar.google.com/citations?h
 **Journal Reviewer**
 
 - IEEE Transactions on Knowledge and Data Engineering (TKDE)
+- ACM Transactions on Information Systems (TOIS)
 - IEEE Transactions on Parallel and Distributed Systems (TPDS)
 - IEEE Transactions on Computers (TC)
 - IEEE Transactions on Intelligent Transportation Systems (TITS)
