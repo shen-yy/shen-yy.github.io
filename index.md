@@ -10,7 +10,7 @@ Email: shenyy [AT] sjtu.edu.cn
 
 Yanyan is currently a tenured associate professor at the Department of Computer Science and Engineering, Shanghai Jiao Tong University (SJTU). She received her bachelor degree from Peking University (PKU), and obtained her doctoral degree from National University of Singapore (NUS). Her broad research interests include: databases, data mining and machine learning. She focuses on developing efficient and automated solutions to facilitate data analytics in various data-driven application domains including finance, e-commerce, etc.
 
-Yanyan has won a few awards, including 2020 ACM SIGMOD China Rising Star award, 2020 Shanghai Technical Invention award, ICDE 2023 best paper award, PVLDB 2022 best research paper award, DASFAA 2019 best paper runner-up and APWeb-WAIM 2018 best student paper award. She has served as a PC member of top international conferences such as SIGMOD, PVLDB, ICDE, KDD and been selected as VLDB 2019 Distinguished Reviewer, ICDE 2019 Outstanding Reviewer. She has been invited to serve as Associate Editor of IEEE TKDE and PVLDB 2023/2024, Demo Co-chair of ICDE 2023. 
+Yanyan has won a few awards, including ICDE 2023 best paper award, PVLDB 2022 best research paper award, DASFAA 2019 best paper runner-up, APWeb-WAIM 2018 best student paper award, etc. She has served as a PC member of top international conferences such as SIGMOD, PVLDB, ICDE, KDD and has been selected as VLDB 2023 Distinguished Associate Editor, VLDB 2019 Distinguished Reviewer, ICDE 2019 Outstanding Reviewer. She has been invited to serve as Associate Editor of IEEE TKDE, VLDB Journal, PVLDB 2023/2024, and Demo Co-chair of ICDE 2023. 
 
 
 ### Research Interests
@@ -52,6 +52,7 @@ See full publications in [Google Scholar](https://scholar.google.com/citations?h
 **Journal Associate Editor**
 
 - IEEE Transactions on Knowledge and Data Engineering (TKDE)
+- VLDB Journal (VLDBJ)
  
 **Journal Guest Editor**
 
@@ -70,10 +71,11 @@ See full publications in [Google Scholar](https://scholar.google.com/citations?h
 
 **Conferences Program Committee**
 
-- ACM International Conference on Management of Data (SIGMOD): 2021, 2023
+- ACM International Conference on Management of Data (SIGMOD): 2021, 2023, 2024 (Demo-track)
 - PVLDB Review Board: 2019, 2020, 2022, 2023 (Associate Editor), 2024 (Associate Editor) 
 - IEEE International Conference on Data Engineering (ICDE): 2018, 2019, 2020, 2022, 2023 (Demo Co-chair)
 -	ACM International Conference on Knowledge Discovery and Data Mining (SIGKDD): 2019, 2020, 2021, 2022
+-	IEEE International Conference on Big Data: 2022 (PC Vice-Co-Chair)
 -	International Joint Conference on Artificial Intelligence (IJCAI): 2018, 2019, 2020
 -	AAAI Conference on Artificial Intelligence (AAAI): 2019, 2020, 2021, 2022
 -	ACM Symposium on Cloud Computing (SOCC): 2020
@@ -85,5 +87,6 @@ See full publications in [Google Scholar](https://scholar.google.com/citations?h
 ### Teaching Activities
 
 - Computer Architecture, CS Undergraduate
+- Database Principles, CS Undergraduate
 - Programming Practice and Problem Solving, CS Undergraduate
 - English Academic Practice, CS Graduate
