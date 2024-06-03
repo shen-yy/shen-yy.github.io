@@ -4,11 +4,12 @@ Associate Professor with Tenure\
 Department of Computer Science and Engineering\
 Shanghai Jiao Tong University
 
-Email: shenyy [AT] sjtu.edu.cn
+Email: shenyy [AT] sjtu.edu.cn\
+[Data Driven Software Engineering Lab](https://ddst.sjtu.edu.cn/)
 
 ### Bio
 
-Yanyan is currently a tenured associate professor at the Department of Computer Science and Engineering, Shanghai Jiao Tong University (SJTU). She received her bachelor degree from Peking University (PKU), and obtained her doctoral degree from National University of Singapore (NUS). Her broad research interests include: databases, data mining and machine learning. She focuses on developing efficient and automated solutions to facilitate data analytics in various data-driven application domains including finance, e-commerce, etc.
+Yanyan is currently a tenured associate professor at the [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/en/), Shanghai Jiao Tong University (SJTU). She received her bachelor degree from Peking University (PKU), and obtained her doctoral degree from National University of Singapore (NUS). Her broad research interests include: databases, data mining and machine learning. She focuses on developing efficient and automated solutions to facilitate data analytics in various data-driven application domains including finance, e-commerce, etc.
 
 Yanyan has won a few awards, including ICDE 2023 best paper award, PVLDB 2022 best research paper award, DASFAA 2019 best paper runner-up, APWeb-WAIM 2018 best student paper award, etc. She has served as a PC member of top international conferences such as SIGMOD, PVLDB, ICDE, KDD and has been selected as VLDB 2023 Distinguished Associate Editor, VLDB 2019 Distinguished Reviewer, ICDE 2019 Outstanding Reviewer. She has been invited to serve as Associate Editor of IEEE TKDE, VLDB Journal, and PVLDB 2023/2024. 
 
