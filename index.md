@@ -72,7 +72,7 @@ See full publications in [Google Scholar](https://scholar.google.com/citations?h
 **Conferences Program Committee**
 
 - ACM International Conference on Management of Data (SIGMOD): 2021, 2023, 2024 (Demo-track)
-- PVLDB Review Board: 2019, 2020, 2022, 2023 (Associate Editor), 2024 (Associate Editor) 
+- PVLDB Review Board: 2019, 2020, 2022, 2023 (Associate Editor), 2024 (Associate Editor), 2025
 - IEEE International Conference on Data Engineering (ICDE): 2018, 2019, 2020, 2022, 2023 (Demo Co-chair)
 -	ACM International Conference on Knowledge Discovery and Data Mining (SIGKDD): 2019, 2020, 2021, 2022
 -	IEEE International Conference on Big Data: 2022 (PC Vice-Co-Chair)
