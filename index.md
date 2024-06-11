@@ -16,22 +16,30 @@ Yanyan has won a few awards, including ICDE 2023 best paper award, PVLDB 2022 be
 
 ### Research Interests
 
-- Big Data Analytics
-- Data-driven Machine Learning
-- DB for AI / AI for DB
+- DB for AI / DB x AI
+- Complex Data Analytics
+- Large-scale Machine Learning
 
 
 ### Recent Publications 
-See full publications in [Google Scholar](https://scholar.google.com/citations?hl=en&user=MBuqhZUAAAAJ) or [here]().
+See full publications in [Google Scholar](https://scholar.google.com/citations?hl=en&user=MBuqhZUAAAAJ).
+The code repositories for the recent stock-related and xAI papers are available [here](https://github.com/SJTU-Quant).
 
+- Shihong Gao, et al. [SIMPLE: Efficient Temporal Graph Neural Network Training at Scale with Dynamic Data Placement.]() In Proceedings of the 2024 International Conference on Management of Data (SIGMOD), 2024.
+- Jingzhi Fang, et al. [STile: Searching Hybrid Sparse Formats for Sparse Deep Learning Operators Automatically.]() In Proceedings of the 2024 International Conference on Management of Data (SIGMOD), 2024.
+- Lifan Zhao, Yanyan Shen. [Rethinking Channel Dependence for Multivariate Time Series Forecasting: Learning from Leading Indicators.]() In Proceedings of the 12th International Conference on Learning Representations (ICLR), 2024. 
+- Jiale Deng, Yanyan Shen. [Self-Interpretable Graph Learning with Sufficient and Necessary Explanations.]() In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), 2024. (accept rate=2342/9862=23.75\%)
+- Jinyong Fan, Yanyan Shen. [StockMixer: A Simple yet Strong MLP-based Architecture for Stock Price Forecasting.]() In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), 2024. 
+- Tong Li, et al. [MASTER: Market-Guided Stock Transformer for Stock Price Forecasting.]() In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), 2024.
+- Ynyan Shen, et al. [Efficient Training of Graph Neural Networks on Large Graphs.]() PVLDB, 2024 (tutorial).
+- Shihong Gao, et al. ETC: Efficient Training of Temporal Graph Neural Networks over Large-scale Dynamic Graphs. In Proceedings of the VLDB Endowment (PVLDB), 2024.  
 - Lifan Zhao, Shuming Kong, Yanyan Shen. [DoubleAdapt: A Meta-learning Approach to Incremental Learning for Stock Trend Forecasting.]() In Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023. (research track, accept rate=313/1416=22.1%)
-- Zhikai Wang, Yanyan Shen, Zibin Zhang, Kangyi Lin. [Feature Staleness Aware Incremental Learning for CTR Prediction.]() In Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI), 2023. (accept rate=15%)
+- Zhikai Wang, Yanyan Shen, et al. [Feature Staleness Aware Incremental Learning for CTR Prediction.]() In Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI), 2023. (accept rate=15%)
 - Tong Li, Jiale Deng, Yanyan Shen, Luyu Qiu, Yongxiang Huang, Caleb Chen Cao. [Towards Fine-grained Explainability for Heterogeneous Graph Neural Network.]() In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI), 2023. (accept rate=1721/8777=19.6%)
-- Zepeng Li, Dongxiang Zhang, Yanyan Shen, Gang Chen. [Human-in-the-Loop Vehicle ReID.]() In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI), 2023.
-- Yiming Li, Yanyan Shen, Lei Chen, Mingxuan Yuan. [Orca: Scalable Temporal Graph Neural Networks Training with Theoretical Guarantees.]() In Proceedings of the 2023 International Conference on Management of Data (SIGMOD), 2023.
-- Xin Zhang, Yanyan Shen, Yingxia Shao, Lei Chen. [DUCATI: A Dual-Cache Training System for Graph Neural Networks on Giant Graphs with GPU.]() In Proceedings of the 2023 International Conference on Management of Data (SIGMOD), 2023.
-- Jia Li, Yanyan Shen, Lei Chen, Charles Wang Wai Ng. [SSIN: Self-Supervised Learning for Rainfall Spatial Interpolation.]() In Proceedings of the 2023 International Conference on Management of Data (SIGMOD), 2023.
-- Yiming Li, Yanyan Shen, Lei Chen, Mingxuan Yuan. [Zebra: When Temporal Graph Neural Networks Meet Temporal Personalized PageRank.]() In Proceedings of the VLDB Endowment (PVLDB), 2023.
+- Yiming Li, Yanyan Shen, et al. [Orca: Scalable Temporal Graph Neural Networks Training with Theoretical Guarantees.]() In Proceedings of the 2023 International Conference on Management of Data (SIGMOD), 2023.
+- Xin Zhang, Yanyan Shen, et al. [DUCATI: A Dual-Cache Training System for Graph Neural Networks on Giant Graphs with GPU.]() In Proceedings of the 2023 International Conference on Management of Data (SIGMOD), 2023.
+- Jia Li, Yanyan Shen, et al. [SSIN: Self-Supervised Learning for Rainfall Spatial Interpolation.]() In Proceedings of the 2023 International Conference on Management of Data (SIGMOD), 2023.
+- Yiming Li, Yanyan Shen, et al. [Zebra: When Temporal Graph Neural Networks Meet Temporal Personalized PageRank.]() In Proceedings of the VLDB Endowment (PVLDB), 2023.
 - Zhikai Wang, Yanyan Shen. [Incremental Learning for Multi-Interest Sequential Recommendation.]() In Proceedings of the 39th IEEE International Conference on Data Engineering (ICDE), 2023.
 - Shuming Kong, Yanyan Shen, et al. [Resolving Training Biases via Influence-based Data Relabeling.]() In Proceedings of the 10th International Conference on Learning Representations (ICLR), 2022. (oral, accept rate = 54/3391)
 - Shuming Kong, Weiyu Cheng, Yanyan Shen, Linpeng Huang.  [AutoSrh: An Embedding Dimensionality Search Framework for Tabular Data Prediction.]() IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022.
