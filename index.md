@@ -31,7 +31,7 @@ The code repositories for the recent stock-related and xAI papers are available 
 - Jiale Deng, Yanyan Shen. [Self-Interpretable Graph Learning with Sufficient and Necessary Explanations.]() In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), 2024. (accept rate=2342/9862=23.75\%)
 - Jinyong Fan, Yanyan Shen. [StockMixer: A Simple yet Strong MLP-based Architecture for Stock Price Forecasting.]() In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), 2024. 
 - Tong Li, et al. [MASTER: Market-Guided Stock Transformer for Stock Price Forecasting.]() In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), 2024.
-- Ynyan Shen, et al. [Efficient Training of Graph Neural Networks on Large Graphs.]() PVLDB, 2024 (tutorial).
+- Yanyan Shen, et al. [Efficient Training of Graph Neural Networks on Large Graphs.]() PVLDB, 2024 (tutorial).
 - Shihong Gao, et al. ETC: Efficient Training of Temporal Graph Neural Networks over Large-scale Dynamic Graphs. In Proceedings of the VLDB Endowment (PVLDB), 2024.  
 - Lifan Zhao, Shuming Kong, Yanyan Shen. [DoubleAdapt: A Meta-learning Approach to Incremental Learning for Stock Trend Forecasting.]() In Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023. (research track, accept rate=313/1416=22.1%)
 - Zhikai Wang, Yanyan Shen, et al. [Feature Staleness Aware Incremental Learning for CTR Prediction.]() In Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI), 2023. (accept rate=15%)
