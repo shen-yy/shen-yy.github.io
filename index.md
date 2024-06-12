@@ -27,11 +27,10 @@ The code repositories for the recent stock-related and xAI papers are available 
 
 - Shihong Gao, et al. [SIMPLE: Efficient Temporal Graph Neural Network Training at Scale with Dynamic Data Placement.]() In Proceedings of the 2024 International Conference on Management of Data (SIGMOD), 2024.
 - Jingzhi Fang, et al. [STile: Searching Hybrid Sparse Formats for Sparse Deep Learning Operators Automatically.]() In Proceedings of the 2024 International Conference on Management of Data (SIGMOD), 2024.
-- Lifan Zhao, Yanyan Shen. [Rethinking Channel Dependence for Multivariate Time Series Forecasting: Learning from Leading Indicators.]() In Proceedings of the 12th International Conference on Learning Representations (ICLR), 2024. 
-- Jiale Deng, Yanyan Shen. [Self-Interpretable Graph Learning with Sufficient and Necessary Explanations.]() In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), 2024. (accept rate=2342/9862=23.75\%)
-- Jinyong Fan, Yanyan Shen. [StockMixer: A Simple yet Strong MLP-based Architecture for Stock Price Forecasting.]() In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), 2024. 
-- Tong Li, et al. [MASTER: Market-Guided Stock Transformer for Stock Price Forecasting.]() In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), 2024.
-- Yanyan Shen, et al. [Efficient Training of Graph Neural Networks on Large Graphs.]() PVLDB, 2024 (tutorial).
+- Jiale Deng, Yanyan Shen. [Self-Interpretable Graph Learning with Sufficient and Necessary Explanations.](https://ojs.aaai.org/index.php/AAAI/article/download/29059/30007) In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), 2024. (accept rate=2342/9862=23.75\%)
+- Jinyong Fan, Yanyan Shen. [StockMixer: A Simple yet Strong MLP-based Architecture for Stock Price Forecasting.](https://ojs.aaai.org/index.php/AAAI/article/download/28681/29322) In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), 2024. 
+- Tong Li, et al. [MASTER: Market-Guided Stock Transformer for Stock Price Forecasting.](https://ojs.aaai.org/index.php/AAAI/article/download/27767/27575) In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), 2024.
+- Yanyan Shen, et al. [Efficient Training of Graph Neural Networks on Large Graphs.](https://vldb.org/2024/?call-for-tutorials) PVLDB, 2024 (tutorial).
 - Shihong Gao, et al. ETC: Efficient Training of Temporal Graph Neural Networks over Large-scale Dynamic Graphs. In Proceedings of the VLDB Endowment (PVLDB), 2024.  
 - Lifan Zhao, Shuming Kong, Yanyan Shen. [DoubleAdapt: A Meta-learning Approach to Incremental Learning for Stock Trend Forecasting.]() In Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023. (research track, accept rate=313/1416=22.1%)
 - Zhikai Wang, Yanyan Shen, et al. [Feature Staleness Aware Incremental Learning for CTR Prediction.]() In Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI), 2023. (accept rate=15%)
