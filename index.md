@@ -11,7 +11,7 @@ Email: shenyy [AT] sjtu.edu.cn\
 
 Yanyan is currently a tenured associate professor at the [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/en/), Shanghai Jiao Tong University (SJTU). She received her bachelor degree from Peking University (PKU), and obtained her doctoral degree from National University of Singapore (NUS). Her broad research interests include: databases, data mining and machine learning. She focuses on developing efficient and automated solutions to facilitate data analytics in various data-driven application domains including finance, e-commerce, etc.
 
-Yanyan has won a few awards, including ICDE 2023 best paper award, PVLDB 2022 best research paper award, DASFAA 2019 best paper runner-up, APWeb-WAIM 2018 best student paper award, etc. She has served as a PC member of top international conferences such as SIGMOD, PVLDB, ICDE, KDD and has been selected as VLDB 2023 Distinguished Associate Editor, VLDB 2019 Distinguished Reviewer, ICDE 2019 Outstanding Reviewer. She has been invited to serve as Associate Editor of IEEE TKDE, VLDB Journal, and PVLDB 2023/2024. 
+Yanyan has won a few awards, including ICDE 2023 best paper award, PVLDB 2022 best research paper award, DASFAA 2019 best paper runner-up, APWeb-WAIM 2018 best student paper award, etc. She has served as a PC member of top international conferences such as SIGMOD, PVLDB, ICDE, KDD and has been selected as VLDB 2023 and 2024 Distinguished Associate Editor, VLDB 2019 Distinguished Reviewer, ICDE 2019 Outstanding Reviewer. She has been invited to serve as Associate Editor of IEEE TKDE, VLDB Journal, and PVLDB 2023/2024. 
 
 
 ### Research Interests
@@ -23,14 +23,16 @@ Yanyan has won a few awards, including ICDE 2023 best paper award, PVLDB 2022 be
 
 ### Recent Publications 
 See full publications in [Google Scholar](https://scholar.google.com/citations?hl=en&user=MBuqhZUAAAAJ).
-The code repositories for the recent stock-related and xAI papers are available [here](https://github.com/SJTU-Quant).
+The code repositories for the recent papers are available [here](https://github.com/SJTU-DMTai).
 
+
+- Yanyan Shen, et al. Efficient Training of Graph Neural Networks on Large Graphs [tutorial](https://github.com/SJTU-DMTai/Data-Management-for-GNN-Training). PVLDB, 2024.
 - Shihong Gao, et al. [SIMPLE: Efficient Temporal Graph Neural Network Training at Scale with Dynamic Data Placement.]() In Proceedings of the 2024 International Conference on Management of Data (SIGMOD), 2024.
 - Jingzhi Fang, et al. [STile: Searching Hybrid Sparse Formats for Sparse Deep Learning Operators Automatically.]() In Proceedings of the 2024 International Conference on Management of Data (SIGMOD), 2024.
+- Lifan Zhao, Yanyan Shen. [Rethinking Channel Dependence for Multivariate Time Series Forecasting: Learning from Leading Indicators.]() In Proceedings of the 12th International Conference on Learning Representations (ICLR), 2024.
 - Jiale Deng, Yanyan Shen. [Self-Interpretable Graph Learning with Sufficient and Necessary Explanations.](https://ojs.aaai.org/index.php/AAAI/article/download/29059/30007) In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), 2024. (accept rate=2342/9862=23.75\%)
 - Jinyong Fan, Yanyan Shen. [StockMixer: A Simple yet Strong MLP-based Architecture for Stock Price Forecasting.](https://ojs.aaai.org/index.php/AAAI/article/download/28681/29322) In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), 2024. 
 - Tong Li, et al. [MASTER: Market-Guided Stock Transformer for Stock Price Forecasting.](https://ojs.aaai.org/index.php/AAAI/article/download/27767/27575) In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), 2024.
-- Yanyan Shen, et al. [Efficient Training of Graph Neural Networks on Large Graphs.]() PVLDB, 2024 (tutorial).
 - Shihong Gao, et al. ETC: Efficient Training of Temporal Graph Neural Networks over Large-scale Dynamic Graphs. In Proceedings of the VLDB Endowment (PVLDB), 2024.  
 - Lifan Zhao, Shuming Kong, Yanyan Shen. [DoubleAdapt: A Meta-learning Approach to Incremental Learning for Stock Trend Forecasting.]() In Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023. (research track, accept rate=313/1416=22.1%)
 - Zhikai Wang, Yanyan Shen, et al. [Feature Staleness Aware Incremental Learning for CTR Prediction.]() In Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI), 2023. (accept rate=15%)
@@ -81,8 +83,8 @@ The code repositories for the recent stock-related and xAI papers are available 
 
 - ACM International Conference on Management of Data (SIGMOD): 2021, 2023, 2024 (Demo-track)
 - PVLDB Review Board: 2019, 2020, 2022, 2023 (Associate Editor), 2024 (Associate Editor), 2025
-- IEEE International Conference on Data Engineering (ICDE): 2018, 2019, 2020, 2022, 2023 (Demo Co-chair)
--	ACM International Conference on Knowledge Discovery and Data Mining (SIGKDD): 2019, 2020, 2021, 2022
+- IEEE International Conference on Data Engineering (ICDE): 2018, 2019, 2020, 2022, 2023 (Demo Co-chair), 2025
+-	ACM International Conference on Knowledge Discovery and Data Mining (SIGKDD): 2019, 2020, 2021, 2022, 2025
 -	IEEE International Conference on Big Data: 2022 (PC Vice-Co-Chair)
 -	International Joint Conference on Artificial Intelligence (IJCAI): 2018, 2019, 2020
 -	AAAI Conference on Artificial Intelligence (AAAI): 2019, 2020, 2021, 2022
