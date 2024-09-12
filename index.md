@@ -18,7 +18,7 @@ Yanyan has won a few awards, including ICDE 2023 best paper award, PVLDB 2022 be
 
 - DB for AI / DB x AI
 - Complex Data Analytics
-- Large-scale Machine Learning
+- Responsible Machine Learning
 
 
 ### Recent Publications 
